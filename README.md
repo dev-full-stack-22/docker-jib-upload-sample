@@ -15,3 +15,11 @@ Update the settings.xml with your account username and password inside the ~/.m2
 After the above two changes, execute the jib_build.sh
 
 To test, update the docker-compose.yml file with the updated image name and execute to test
+
+
+Online Resources:
+https://cloud.google.com/java/getting-started/jib
+https://www.youtube.com/watch?v=dKXx4O_GIyo
+
+jib and further plugins required for production ready
+https://www.youtube.com/watch?v=bkC1spGOI7Y
